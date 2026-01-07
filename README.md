@@ -54,5 +54,7 @@ streamlit run app.py
 The web application is built using Streamlit, user has three text boxes to input problem,input and ouyput description. After clicking on predict the class and score are displayed. The models are loaded once and cached, ensuring fast, real-time predictions.
 # Demo Video
 ...
+# Personal Details
+Ainesh Kumar Das (24114008)
 
 
