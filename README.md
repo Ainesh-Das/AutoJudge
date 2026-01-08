@@ -32,7 +32,7 @@ RMSE: 2.034
 # Steps to run the project locally
 1.Clone the repository: 
 
-git clone https://github.com/Ainesh-das/Autojudge.git
+git clone https://github.com/Ainesh-Das/Autojudge.git
 
 cd AutoJudge
 
