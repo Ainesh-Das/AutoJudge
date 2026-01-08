@@ -47,6 +47,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 4.Run the streamlit interface
+
 cd run_local
 
 streamlit run app.py
